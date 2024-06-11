@@ -72,5 +72,12 @@ After running the script, the output will be displayed in the following columns:
 | 1000000                   | TSLA   | 1E+06 |
 
 ---
+### Results
 
-This script provides an automated way to analyze stock data and highlight key metrics in an Excel workbook, making it easier to visualize and interpret the data.
+![Quarter 1](https://raw.githubusercontent.com/pixare7/VBA-challenge/main/Q1.png)
+
+![Quarter 2](https://raw.githubusercontent.com/pixare7/VBA-challenge/main/Q2.png)
+
+![Quarter 3](https://raw.githubusercontent.com/pixare7/VBA-challenge/main/Q3.png)
+
+![Quarter 4](https://raw.githubusercontent.com/pixare7/VBA-challenge/main/Q4.png)
